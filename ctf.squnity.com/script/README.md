@@ -2,7 +2,7 @@ Running the binary will give us this a messagebox showing hex encoded value
 
 ![picture1](https://user-images.githubusercontent.com/46635361/51079417-70526480-16cf-11e9-879a-396c57c04aca.png)
 
-using PEstudio you can find that the binary was packed using UPX 
+using PEstudio you can find that the binary was packeds using UPX 
 
 ![picture2](https://user-images.githubusercontent.com/46635361/51079452-07b7b780-16d0-11e9-8dfc-ae13b9ec93ad.png)
 
